@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NARfüze": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
