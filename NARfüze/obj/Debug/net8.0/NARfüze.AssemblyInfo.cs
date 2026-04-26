@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NARfüze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cf931743ad026bfd1f8f56ff30b625839801bc2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa16a78414225ec449fc5848fae4ebc7ad50b49")]
 [assembly: System.Reflection.AssemblyProductAttribute("NARfüze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NARfüze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
