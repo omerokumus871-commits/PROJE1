@@ -2,6 +2,8 @@
 PROJE NAR-1: Yeni Nesil Hipersonik Çoklu Vuruş Sistemi
 Proje Özeti ve Felsefesi
 NAR-1, günümüzün en gelişmiş hava savunma sistemlerini (örneğin Demir Kubbe) aşmak ve etkisiz hale getirmek üzere tasarlanmış, hipersonik hızlara çıkabilen yeni nesil bir taktiksel taarruz sistemidir. Proje, ismini ve temel mühendislik felsefesini "Nar" meyvesinden almaktadır: Dışarıdan bakıldığında radarda tek ve devasa bir hedef olarak görünürken, hedefe yaklaştığı kritik anda kabuğunu kırarak içindeki ölümcül füzeleri (Nar Taneleri) serbest bırakır. Bu "bölünerek çoğalma" taktiği ve devasa uçuş hızı, düşman hava savunma algoritmalarının karar verme süresini milisaniyelere düşürerek sistemi kilitler ve kaçınılmaz bir vuruş başarısı sağlar.
+<img width="1650" height="807" alt="image" src="https://github.com/user-attachments/assets/e8fc4c5a-8cf3-4a9e-aed6-cecb4a68ff5b" />
+
 
 🛡️ Taktiksel Uçuş Senaryosu
 Sistem, 1400 kilometrelik yolculuğunu uzayın sınırına yakın bir irtifada sessizce tamamlar. Hedefe 70 kilometre kala (Demir Kubbe radar menzili) düşman sistemleri tarafından tek bir kütle olarak tespit edilir. Düşman, bu büyük hedefe önleyici roket fırlattığı anda, hedef bölgesine 65 kilometre kala NAR-1 taktiksel manevrasına başlar. Dış kabuk parçalanır ve önceden ateşlenmiş 8 adet "Nar Tanesi", aralarında 400 metre mesafe bırakarak kusursuz bir "Ölüm Çemberi" (Circular Kill Ring) formasyonuna geçer. Ana gövde ise aldatıcı bir sahte hedef olarak yanmaya devam ederken, Nar Taneleri asıl hedefi çoklu açılardan imha eder.
